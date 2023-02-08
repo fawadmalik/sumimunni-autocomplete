@@ -1,7 +1,7 @@
 package com.sumimunni.testscripts;
 
 import io.testsmith.support.listeners.*;
-import sumimunni.utils.BrowserUtil;
+import com.sumimunni.utils.BrowserUtil;
 import com.sumimunni.utils.ScreenshotListener;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.events.EventFiringDecorator;
